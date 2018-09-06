@@ -1,9 +1,7 @@
 .THIS {
-    position:absolute;
-    height: 100%;
-    width: 100%;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
     background: #FFFFFF;
-  }
-  .THIS>div {
-    height: 50%;
-  }
+     height: 100%;
+}
